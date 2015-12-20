@@ -1,0 +1,7 @@
+*.o
+*.swp
+*.log
+*.mp4
+facetrack
+videotrack
+
